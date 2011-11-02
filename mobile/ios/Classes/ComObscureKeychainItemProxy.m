@@ -6,18 +6,25 @@
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
-#import "KeychainItemWrapperProxy.h"
+#import "ComObscureKeychainItemProxy.h"
 
-@implementation KeychainItemWrapperProxy
+@implementation ComObscureKeychainItemProxy
 
-- (id)initWithIdentifier:(NSString *)identifier accessGroup:(NSString *)accessGroup
+
+-(void)_initWithProperties:(NSDictionary*)properties 
 {
-    self = [super init];
-    if (self) {
-        keychainItem = [[KeychainItemWrapper alloc] initWithIdentifier:identifier accessGroup:accessGroup];
-    }
+    [super _initWithProperties:properties];
     
-    return self;
+    NSString *identifier = [properties objectForKey:@"identifier"];
+    if (identifier == nil) 
+    {        
+        NSLog(@"[ERROR] KeychainItem created without an identifier");
+        @throw [NSException exceptionWithName:@"com.obscure.keychain" 
+                                       reason:[NSString stringWithFormat:@"KeychainItem created without an identifier"] 
+                                     userInfo:nil];
+    }
+    NSString *accessGroup = [properties objectForKey:@"accessGroup"];
+    keychainItem = [[KeychainItemWrapper alloc] initWithIdentifier:identifier accessGroup:accessGroup];
 }
 
 -(void) dealloc {

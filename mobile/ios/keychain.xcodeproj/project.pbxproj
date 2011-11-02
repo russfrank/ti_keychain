@@ -30,8 +30,8 @@
 		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
 		DA20405F13D734510036A9B5 /* KeychainItemWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = DA20405B13D734510036A9B5 /* KeychainItemWrapper.h */; };
 		DA20406013D734510036A9B5 /* KeychainItemWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = DA20405C13D734510036A9B5 /* KeychainItemWrapper.m */; };
-		DA20406113D734510036A9B5 /* KeychainItemWrapperProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = DA20405D13D734510036A9B5 /* KeychainItemWrapperProxy.h */; };
-		DA20406213D734510036A9B5 /* KeychainItemWrapperProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = DA20405E13D734510036A9B5 /* KeychainItemWrapperProxy.m */; };
+		DA20406113D734510036A9B5 /* ComObscureKeychainItemProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = DA20405D13D734510036A9B5 /* ComObscureKeychainItemProxy.h */; };
+		DA20406213D734510036A9B5 /* ComObscureKeychainItemProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = DA20405E13D734510036A9B5 /* ComObscureKeychainItemProxy.m */; };
 		DA20406913D738B50036A9B5 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA20406813D738B50036A9B5 /* Security.framework */; };
 /* End PBXBuildFile section */
 
@@ -56,8 +56,8 @@
 		D2AAC07E0554694100DB518D /* libComObscureKeychain.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libComObscureKeychain.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA20405B13D734510036A9B5 /* KeychainItemWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KeychainItemWrapper.h; path = Classes/KeychainItemWrapper.h; sourceTree = "<group>"; };
 		DA20405C13D734510036A9B5 /* KeychainItemWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KeychainItemWrapper.m; path = Classes/KeychainItemWrapper.m; sourceTree = "<group>"; };
-		DA20405D13D734510036A9B5 /* KeychainItemWrapperProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KeychainItemWrapperProxy.h; path = Classes/KeychainItemWrapperProxy.h; sourceTree = "<group>"; };
-		DA20405E13D734510036A9B5 /* KeychainItemWrapperProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KeychainItemWrapperProxy.m; path = Classes/KeychainItemWrapperProxy.m; sourceTree = "<group>"; };
+		DA20405D13D734510036A9B5 /* ComObscureKeychainItemProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ComObscureKeychainItemProxy.h; path = Classes/ComObscureKeychainItemProxy.h; sourceTree = "<group>"; };
+		DA20405E13D734510036A9B5 /* ComObscureKeychainItemProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ComObscureKeychainItemProxy.m; path = Classes/ComObscureKeychainItemProxy.m; sourceTree = "<group>"; };
 		DA20406813D738B50036A9B5 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -107,8 +107,8 @@
 			children = (
 				DA20405B13D734510036A9B5 /* KeychainItemWrapper.h */,
 				DA20405C13D734510036A9B5 /* KeychainItemWrapper.m */,
-				DA20405D13D734510036A9B5 /* KeychainItemWrapperProxy.h */,
-				DA20405E13D734510036A9B5 /* KeychainItemWrapperProxy.m */,
+				DA20405D13D734510036A9B5 /* ComObscureKeychainItemProxy.h */,
+				DA20405E13D734510036A9B5 /* ComObscureKeychainItemProxy.m */,
 				24DE9E0F11C5FE74003F90F6 /* ComObscureKeychainModuleAssets.h */,
 				24DE9E1011C5FE74003F90F6 /* ComObscureKeychainModuleAssets.m */,
 				24DD6CF71134B3F500162E58 /* ComObscureKeychainModule.h */,
@@ -137,7 +137,7 @@
 				24DD6CF91134B3F500162E58 /* ComObscureKeychainModule.h in Headers */,
 				24DE9E1111C5FE74003F90F6 /* ComObscureKeychainModuleAssets.h in Headers */,
 				DA20405F13D734510036A9B5 /* KeychainItemWrapper.h in Headers */,
-				DA20406113D734510036A9B5 /* KeychainItemWrapperProxy.h in Headers */,
+				DA20406113D734510036A9B5 /* ComObscureKeychainItemProxy.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -214,7 +214,7 @@
 				24DD6CFA1134B3F500162E58 /* ComObscureKeychainModule.m in Sources */,
 				24DE9E1211C5FE74003F90F6 /* ComObscureKeychainModuleAssets.m in Sources */,
 				DA20406013D734510036A9B5 /* KeychainItemWrapper.m in Sources */,
-				DA20406213D734510036A9B5 /* KeychainItemWrapperProxy.m in Sources */,
+				DA20406213D734510036A9B5 /* ComObscureKeychainItemProxy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
