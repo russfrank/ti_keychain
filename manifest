@@ -4,10 +4,10 @@
 #
 version: 0.1
 apiversion: 2
-description: My module
-author: Your Name
-license: Specify your license
-copyright: Copyright (c) 2012 by Your Company
+description: Module for accessing keychain data
+author: Paul Mietz Egli
+license: Apache Version 2
+copyright: Copyright (c) 2011 by Paul Mietz Egli
 
 
 # these should not be edited
