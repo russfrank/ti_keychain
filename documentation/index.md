@@ -1,16 +1,16 @@
-# ti_keychain Module
+# keychain Module
 
 ## Description
 
 TODO: Enter your module description here
 
-## Accessing the ti_keychain Module
+## Accessing the keychain Module
 
 To access this module from JavaScript, you would do the following:
 
-	var ti_keychain = require("com.obscure.keychain_real");
+	var keychain = require("com.obscure.keychain");
 
-The ti_keychain variable is a reference to the Module object.	
+The keychain variable is a reference to the Module object.	
 
 ## Reference
 
