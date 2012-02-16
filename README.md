@@ -70,3 +70,11 @@ Where `spec` is an object with properties
 ### Methods
 
 * reset()
+
+## Credit
+
+I forked this from github user [pegli](https://github.com/pegli/ti_keychain) and also grabbed some commits from [omorandi](https://github.com/omorandi/ti_keychain/tree/master/mobile/ios).
+
+## License
+
+Apache version 2.  Apple portions are under an Apple specific license.
