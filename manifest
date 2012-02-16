@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2012 by Your Company
+
+
+# these should not be edited
+name: ti_keychain
+moduleid: com.obscure.keychain_real
+guid: 5a62c796-d7d8-496a-9239-d2df25784ef5
+platform: iphone
+minsdk: titanium

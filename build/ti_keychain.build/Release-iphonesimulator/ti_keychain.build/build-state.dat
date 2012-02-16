@@ -1,0 +1,161 @@
+Tti_keychain
+v4
+r1
+cCheck dependencies
+cProcessPCH /var/folders/sX/sXR2TxosEmaN5DOUwFO8xU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureKeychain_real_Prefix-hexrgpjypcaqbwdqaismafqzzrvk/ComObscureKeychain_real_Prefix.pch.pth ComObscureKeychain_real_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModuleAssets.o /tmp/test/ti_keychain/Classes/ComObscureKeychainModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainItemProxy.o /tmp/test/ti_keychain/Classes/ComObscureKeychainItemProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModule.o /tmp/test/ti_keychain/Classes/ComObscureKeychainModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/KeychainItemWrapper.o /tmp/test/ti_keychain/Classes/KeychainItemWrapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /tmp/test/ti_keychain/build/Release-iphonesimulator/libComObscureKeychain_real.a normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004EA5CA300000000000000110
+t1319488048
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F28F0000000000001534
+t1316156047
+s5428
+
+N/tmp/test/ti_keychain/Classes/ComObscureKeychainItemProxy.m
+c000000004F3D71CD0000000000000759
+t1329426893
+s1881
+
+N/tmp/test/ti_keychain/Classes/ComObscureKeychainModule.m
+c000000004F3D71CD000000000000084D
+t1329426893
+s2125
+
+N/tmp/test/ti_keychain/Classes/ComObscureKeychainModuleAssets.m
+c000000004F3D71CD0000000000000114
+t1329426893
+s276
+
+N/tmp/test/ti_keychain/Classes/KeychainItemWrapper.m
+c000000004F3D71CD0000000000003379
+t1329426893
+s13177
+
+N/tmp/test/ti_keychain/ComObscureKeychain_real_Prefix.pch
+c000000004F3D71C3000000000000003E
+t1329426883
+s62
+i<Foundation/Foundation.h>
+
+N/tmp/test/ti_keychain/build/Release-iphonesimulator/libComObscureKeychain_real.a
+t2
+s0
+
+N/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainItemProxy.o
+t2
+s0
+
+N/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModule.o
+t2
+s0
+
+N/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModuleAssets.o
+t2
+s0
+
+N/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychain_real.LinkFileList
+c000000004F3D72230000000000000220
+t1329426979
+s544
+
+N/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/KeychainItemWrapper.o
+t2
+s0
+
+N/var/folders/sX/sXR2TxosEmaN5DOUwFO8xU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureKeychain_real_Prefix-hexrgpjypcaqbwdqaismafqzzrvk/ComObscureKeychain_real_Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese22138a3a9edb441^462757a3a9edb441^---0#1#0#--18"Check dependencies36"02DA9BB8-EA2A-4BCB-9048-D15C32F6970B-
+
+CCompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainItemProxy.o /tmp/test/ti_keychain/Classes/ComObscureKeychainItemProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351119779.663797
+e351119779.761576
+r1
+xCompileC
+xbuild/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainItemProxy.o
+x/tmp/test/ti_keychain/Classes/ComObscureKeychainItemProxy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /tmp/test/ti_keychain/Classes/ComObscureKeychainItemProxy.m670daaa3a9edb441^caf9c2a3a9edb441^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/tmp/test/ti_keychain/Classes/ComObscureKeychainItemProxy.m0000000000000000^3999"CompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainItemProxy.o Classes/ComObscureKeychainItemProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /tmp/test/ti_keychain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-generated-files.hmap -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-own-target-headers.hmap -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-all-target-headers.hmap -iquote /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-project-headers.hmap -I/tmp/test/ti_keychain/build/Release-iphonesimulator/include -I/Users/rfranknj/code/mobile/titanium/iphone/include -I/Users/rfranknj/code/mobile/titanium/iphone/include/TiCore -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/DerivedSources/i386 -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/DerivedSources -F/tmp/test/ti_keychain/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/sX/sXR2TxosEmaN5DOUwFO8xU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureKeychain_real_Prefix-hexrgpjypcaqbwdqaismafqzzrvk/ComObscureKeychain_real_Prefix.pch -MMD -MT dependencies -MF /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainItemProxy.d -c /tmp/test/ti_keychain/Classes/ComObscureKeychainItemProxy.m -o /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainItemProxy.o36"44279742-CDB9-484C-9F46-2067C558B55A-
+
+CCompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModule.o /tmp/test/ti_keychain/Classes/ComObscureKeychainModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351119779.683346
+e351119779.771866
+r1
+xCompileC
+xbuild/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModule.o
+x/tmp/test/ti_keychain/Classes/ComObscureKeychainModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /tmp/test/ti_keychain/Classes/ComObscureKeychainModule.mbe17afa3a9edb441^c89ac5a3a9edb441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/tmp/test/ti_keychain/Classes/ComObscureKeychainModule.m0000000000000000^3984"CompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModule.o Classes/ComObscureKeychainModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /tmp/test/ti_keychain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-generated-files.hmap -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-own-target-headers.hmap -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-all-target-headers.hmap -iquote /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-project-headers.hmap -I/tmp/test/ti_keychain/build/Release-iphonesimulator/include -I/Users/rfranknj/code/mobile/titanium/iphone/include -I/Users/rfranknj/code/mobile/titanium/iphone/include/TiCore -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/DerivedSources/i386 -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/DerivedSources -F/tmp/test/ti_keychain/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/sX/sXR2TxosEmaN5DOUwFO8xU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureKeychain_real_Prefix-hexrgpjypcaqbwdqaismafqzzrvk/ComObscureKeychain_real_Prefix.pch -MMD -MT dependencies -MF /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModule.d -c /tmp/test/ti_keychain/Classes/ComObscureKeychainModule.m -o /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModule.o36"FA509154-54AC-4850-891F-2B120CF4EFBF-
+
+CCompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModuleAssets.o /tmp/test/ti_keychain/Classes/ComObscureKeychainModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351119779.663794
+e351119779.682203
+r1
+xCompileC
+xbuild/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModuleAssets.o
+x/tmp/test/ti_keychain/Classes/ComObscureKeychainModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /tmp/test/ti_keychain/Classes/ComObscureKeychainModuleAssets.m730eaaa3a9edb441^05a7aea3a9edb441^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/tmp/test/ti_keychain/Classes/ComObscureKeychainModuleAssets.m0000000000000000^4014"CompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModuleAssets.o Classes/ComObscureKeychainModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /tmp/test/ti_keychain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-generated-files.hmap -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-own-target-headers.hmap -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-all-target-headers.hmap -iquote /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-project-headers.hmap -I/tmp/test/ti_keychain/build/Release-iphonesimulator/include -I/Users/rfranknj/code/mobile/titanium/iphone/include -I/Users/rfranknj/code/mobile/titanium/iphone/include/TiCore -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/DerivedSources/i386 -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/DerivedSources -F/tmp/test/ti_keychain/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/sX/sXR2TxosEmaN5DOUwFO8xU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureKeychain_real_Prefix-hexrgpjypcaqbwdqaismafqzzrvk/ComObscureKeychain_real_Prefix.pch -MMD -MT dependencies -MF /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModuleAssets.d -c /tmp/test/ti_keychain/Classes/ComObscureKeychainModuleAssets.m -o /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychainModuleAssets.o36"04AC4F00-F444-4FCA-AE03-A82DED86E255-
+
+CCompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/KeychainItemWrapper.o /tmp/test/ti_keychain/Classes/KeychainItemWrapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351119779.762752
+e351119779.845784
+r1
+xCompileC
+xbuild/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/KeychainItemWrapper.o
+x/tmp/test/ti_keychain/Classes/KeychainItemWrapper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /tmp/test/ti_keychain/Classes/KeychainItemWrapper.m2b6bc3a3a9edb441^7787d8a3a9edb441^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/tmp/test/ti_keychain/Classes/KeychainItemWrapper.m0000000000000000^3959"CompileC build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/KeychainItemWrapper.o Classes/KeychainItemWrapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /tmp/test/ti_keychain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-generated-files.hmap -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-own-target-headers.hmap -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-all-target-headers.hmap -iquote /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-project-headers.hmap -I/tmp/test/ti_keychain/build/Release-iphonesimulator/include -I/Users/rfranknj/code/mobile/titanium/iphone/include -I/Users/rfranknj/code/mobile/titanium/iphone/include/TiCore -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/DerivedSources/i386 -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/DerivedSources -F/tmp/test/ti_keychain/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/sX/sXR2TxosEmaN5DOUwFO8xU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureKeychain_real_Prefix-hexrgpjypcaqbwdqaismafqzzrvk/ComObscureKeychain_real_Prefix.pch -MMD -MT dependencies -MF /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/KeychainItemWrapper.d -c /tmp/test/ti_keychain/Classes/KeychainItemWrapper.m -o /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/KeychainItemWrapper.o36"6A16D270-2D8D-4AA0-B5C4-D372F2E1735B-
+
+CLibtool /tmp/test/ti_keychain/build/Release-iphonesimulator/libComObscureKeychain_real.a normal i386
+s351119779.846924
+e351119779.853721
+r1
+xLibtool
+x/tmp/test/ti_keychain/build/Release-iphonesimulator/libComObscureKeychain_real.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Libtool build/Release-iphonesimulator/libComObscureKeychain_real.a normal i386e5edd8a3a9edb441^1d8edaa3a9edb441^---0#0#0#--1939"Libtool build/Release-iphonesimulator/libComObscureKeychain_real.a normal i386    cd /tmp/test/ti_keychain    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/tmp/test/ti_keychain/build/Release-iphonesimulator -filelist /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/Objects-normal/i386/ComObscureKeychain_real.LinkFileList -ObjC -framework Foundation -o /tmp/test/ti_keychain/build/Release-iphonesimulator/libComObscureKeychain_real.a36"E94EF87C-557F-4F00-91AA-0BE9D8595878-
+
+CProcessPCH /var/folders/sX/sXR2TxosEmaN5DOUwFO8xU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureKeychain_real_Prefix-hexrgpjypcaqbwdqaismafqzzrvk/ComObscureKeychain_real_Prefix.pch.pth ComObscureKeychain_real_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351119779.346510
+e351119779.662608
+r1
+xProcessPCH
+x/var/folders/sX/sXR2TxosEmaN5DOUwFO8xU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureKeychain_real_Prefix-hexrgpjypcaqbwdqaismafqzzrvk/ComObscureKeychain_real_Prefix.pch.pth
+xComObscureKeychain_real_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile ComObscureKeychain_real_Prefix.pch76e058a3a9edb441^dca1a9a3a9edb441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/tmp/test/ti_keychain/ComObscureKeychain_real_Prefix.pch0000000000000000^3997"ProcessPCH /var/folders/sX/sXR2TxosEmaN5DOUwFO8xU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureKeychain_real_Prefix-hexrgpjypcaqbwdqaismafqzzrvk/ComObscureKeychain_real_Prefix.pch.pth ComObscureKeychain_real_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /tmp/test/ti_keychain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/:/opt/local/bin/:/Users/rfranknj/node_modules/.bin/:/Users/rfranknj/Downloads/android-sdk-mac_x86/platform-tools:/Users/rfranknj/Downloads/android-sdk-mac_x86/tools:/Users/rfranknj/Downloads/android-ndk-r6b/:/Users/rfranknj/mobile/trunk/etc/jslint:/Users/rfranknj/.bin/:node_modules/.bin/"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-return-type -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -DTI_VERSION= -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-generated-files.hmap -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-own-target-headers.hmap -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-all-target-headers.hmap -iquote /tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/ComObscureKeychain_real-project-headers.hmap -I/tmp/test/ti_keychain/build/Release-iphonesimulator/include -I/Users/rfranknj/code/mobile/titanium/iphone/include -I/Users/rfranknj/code/mobile/titanium/iphone/include/TiCore -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/DerivedSources/i386 -I/tmp/test/ti_keychain/build/ti_keychain.build/Release-iphonesimulator/ti_keychain.build/DerivedSources -F/tmp/test/ti_keychain/build/Release-iphonesimulator -DTI_POST_1_2 -c /tmp/test/ti_keychain/ComObscureKeychain_real_Prefix.pch -o /var/folders/sX/sXR2TxosEmaN5DOUwFO8xU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureKeychain_real_Prefix-hexrgpjypcaqbwdqaismafqzzrvk/ComObscureKeychain_real_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/sX/sXR2TxosEmaN5DOUwFO8xU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureKeychain_real_Prefix-hexrgpjypcaqbwdqaismafqzzrvk/ComObscureKeychain_real_Prefix.pch.d36"E77F6B39-1684-467C-93A9-9B5523933540-
+
