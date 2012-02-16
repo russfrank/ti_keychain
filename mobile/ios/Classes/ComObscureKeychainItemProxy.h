@@ -9,11 +9,11 @@
 #import "TiProxy.h"
 #import "KeychainItemWrapper.h"
 
-@interface KeychainItemWrapperProxy : TiProxy {
+@interface ComObscureKeychainItemProxy : TiProxy {
     @private
     KeychainItemWrapper * keychainItem;
 }
 @property (nonatomic, retain) NSString * account;
 @property (nonatomic, retain) NSString * valueData;
-- (id)initWithIdentifier:(NSString *)identifier accessGroup:(NSString *)accessGroup;
+
 @end

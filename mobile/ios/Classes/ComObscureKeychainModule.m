@@ -7,7 +7,7 @@
 #import <CoreFoundation/CoreFoundation.h>
 #import <Security/Security.h>
 #import "ComObscureKeychainModule.h"
-#import "KeychainItemWrapperProxy.h"
+#import "ComObscureKeychainItemProxy.h"
 #import "TiBase.h"
 #import "TiHost.h"
 #import "TiUtils.h"
@@ -87,19 +87,5 @@
 	}
 }
 
-#pragma Public APIs
-
-- (id)createKeychainItem:(id)args {
-    NSArray * arr = (NSArray *)args;
-    if (!arr || [arr count] < 1) return nil;
-    
-    NSString * identifier = [TiUtils stringValue:[arr objectAtIndex:0]];
-    NSString * accessGroup = nil;
-    if ([arr count] > 1) {
-        accessGroup = [TiUtils stringValue:[arr objectAtIndex:1]];
-    }
-    
-    return [[[KeychainItemWrapperProxy alloc] initWithIdentifier:identifier accessGroup:accessGroup] autorelease];
-}
 
 @end
