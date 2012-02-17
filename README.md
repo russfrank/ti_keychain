@@ -1,6 +1,12 @@
 # Ti Keychain Module
 
-## Building
+## Precompiled
+
+In this repository is a .zip file which is the compiled Titanium Module.
+If you use this .zip, you can skip 'Building from Source' below and move
+straight onto 'Installation'.
+
+## Building from Source
 
 To build, start by editing your Titanium SDK version in titanium.xcconfig. 
 Make sure the path to your SDK is correct as well.  Then type `./build.py`.
